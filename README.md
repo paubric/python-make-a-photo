@@ -1,5 +1,6 @@
 # Make a Photo
 Use face recognition to identify Viorica Dăncilă and make a photo.
+![](https://github.com/paubric/python-make-a-photo/blob/master/demo.png)
 # Installation
 1. Install Python 3.x
 2. Install main requirements
